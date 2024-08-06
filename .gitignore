@@ -1,4 +1,8 @@
 Animal.txt
 password
 
+env/
+secret-key
+config/
+
 
