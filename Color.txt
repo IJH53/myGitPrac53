@@ -1,3 +1,10 @@
 1. red
+<<<<<<< HEAD
 2. blue
 3. yellow
+=======
+2. magenta
+3. beige
+
+
+>>>>>>> jaehoon
